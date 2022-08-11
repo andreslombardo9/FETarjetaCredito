@@ -1,0 +1,32 @@
+.titulo{
+    font-size: 1.5em;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+}
+.bx{
+    cursor:pointer;
+}
+
+.bxs-user,.bx-credit-card,.bxs-calendar,.bxs-key,.bxs-data{
+    font-size: 1.3em;
+}
+.btn-success{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+}
+.green-icon{
+    color: #198754; /* Green */
+}
+.red-icon{
+    color: #dc3545; /* Red */
+} 
+/* .form-container{
+
+    height: 600px;
+    display:flex;
+    justify-content:space-around;
+    flex-direction:column;
+    align-items: center;
+} */
